@@ -2,6 +2,7 @@ DFRobot_ColorTemperature
 ===========================
 
 * [中文版](./README_CN.md)
+  
 The SEN0611 is a color temperature sensor. By using the APIs provided in the library, you can obtain color temperature data, illuminance, and color coordinate data.
 
 ![产品效果图片](../../resources/images/SEN0611.png)
